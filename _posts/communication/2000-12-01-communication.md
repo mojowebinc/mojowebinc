@@ -25,8 +25,9 @@ image:
     caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
+## <Beta - Place Holder File For Initializing Blog Folder - To Be Removed>
 
-#### Adapting at the Speed of Change
+## Adapting at the Speed of Change
 Successful Instructional Design begins with several vital questions. How does the change impact roles? How does the change impact individuals.
 
 The ADDIE model stands for: Analysis, Design, Development, Implementation and Evaluation.

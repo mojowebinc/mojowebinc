@@ -27,8 +27,10 @@ image:
 ---
 <!--more-->
 
+## <Beta - Place Holder File For Initializing Blog Folder - To Be Removed>
+
 ## Adapting at the Speed of Change
-However, instead of coping with the natural environment, organizations today face a rapidly changing business environment where those that adapt most quickly to changing trends and drivers (e.g., globalization, technology) will have a competitive advantage. The key to organizations surviving this dynamic environment is to be both proactive and relentless in managing change.
+Instead of coping with the natural environment, organizations today face a rapidly changing business environment where those that adapt most quickly to changing trends and drivers (e.g., globalization, technology) will have a competitive advantage. The key to organizations surviving this dynamic environment is to be both proactive and relentless in managing change.
 
 When it comes to managing large scale organizational change, especially those involving large scale system implementations, countless surveys and case studies have all reached similar conclusions about why these efforts fail. While technical issues might seem the obvious issue, results showed that ignoring the “people” side of change was at the core of failure. In particular, efforts that did not succeed noted resistance or lack of “buy-in” on the part of leaders and employees, along with unrealistic expectations, poor communication and a lack of adequate training. All of which could be effectively managed through well structured Organization Change Management program.
 

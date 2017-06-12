@@ -26,6 +26,8 @@ image:
 ---
 <!--more-->
 
+## <Beta - Place Holder File For Initializing Blog Folder - To Be Removed>
+
 ## Adapting at the Speed of Change
 Successful Instructional Design begins with several vital questions. How does the change impact roles? How does the change impact individuals.
 
