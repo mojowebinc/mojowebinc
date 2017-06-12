@@ -4,6 +4,7 @@ title: "Instructional Design"
 subheadline: "Instructional Design Overview"
 teaser: "Instructional design is about creating a custom learning experience for the learner."
 breadcrumb: true
+show_meta: false
 categories:
     - Blog
 tags:

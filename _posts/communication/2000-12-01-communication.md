@@ -4,6 +4,7 @@ title: "Communication"
 subheadline: "Communication Overview"
 teaser: "Effective communication involves an understanding of the sender, the message and the receiver."
 breadcrumb: true
+show_meta: false
 categories:
     - Blog
 tags:

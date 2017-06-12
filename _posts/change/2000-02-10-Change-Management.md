@@ -4,6 +4,7 @@ title: "Change Management"
 subheadline: "Change Management Overview"
 teaser: "Adapt or Die is an article by John S. MacCallum that views the struggle of companies in the new millennium through the prism of Darwin’s theory of adaption, those that are able to adapt survive."
 breadcrumb: true
+show_meta: false
 categories:
     - Blog
 tags:
