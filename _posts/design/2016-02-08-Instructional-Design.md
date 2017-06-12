@@ -18,9 +18,9 @@ header:
     caption_url: https://unsplash.com/@ptrikutam
 
 image:
-    title: b04in_160208_title.jpg
-    thumb: b04in_160208_thumb.jpg
-    homepage: b04in_160208_home.jpg
+    title: 77insd_160208_title.jpg
+    thumb: 77insd_160208_thumb.jpg
+    homepage: 77insd_160208_home.jpg
     caption: Photo by @lumvox - Unsplash.
     caption_url: https://unsplash.com/@lumvox
 ---
