@@ -45,7 +45,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 
 <br>
 <hr>
-01
+01x
 <div class="row" >
   <div class="small-12 medium-4 columns t30">
     <p>
