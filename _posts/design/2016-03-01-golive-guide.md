@@ -23,7 +23,6 @@ image:
     caption: Photo by @jbriscoe - Unsplash.
     caption_url: https://unsplash.com/@jbriscoe
 ---
-##titlex
 <div class="row" >
   <div class="medium-12 columns t30">
     <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_widget.jpg" alt=""></div>
@@ -31,11 +30,29 @@ image:
   </div>
 </div>
 
+### Go Live Guide
+
+Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list of key activities you will need to complete in order to successfully transition to your computer to the NewSystem operating system and browser:
+- Storing personal files properly
+- Reviewing job aids
+- Creating your logon ID and password
+- Logging on to NewSystem for the first time
+
+
 ### Acitvity 01
 <div class="row" >
-  <div class="medium-12 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></strong>
+  <div class="small-12 medium-4 columns t30">
+    <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></div>
+  </div>
+  <div class="small-12 medium-4 columns t30">
+    <h4>Activity 1: Store Your Files</h4>
+    <p style="margin:0;">Move your files to the proper location:</p>
+    <ul>
+      <li>Individual Files: Store in “My Documents”</li>
+      <li>Group Shared Files: Store on your network share drive</li>
+    </ul>
+    <p><b>NOTE: Failure to properly store your files can result in files being permanently lost.</b></p>
   </div>
 </div>
 
