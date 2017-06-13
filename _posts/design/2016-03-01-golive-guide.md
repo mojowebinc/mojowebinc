@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Go Live Guide"
-subheadline: "Awareness, Guidance and Support"
-teaser: "Go Live Guide."
+title: "An Employee Go Live Guide"
+subheadline: "Guidance and Support During Change"
+teaser: "Use a Go Live Guide to 'guide' employees through change and connect them with support resources."
 breadcrumb: true
 show_meta: false
 categories:
@@ -31,12 +31,17 @@ image:
 </div>
 
 ### Go Live Guide
+An employee Go Live guide is a list of key activities employees need to complete to have a successful Go Live. Like a roadmap or action plan, a Go Live guide lists activities in the sequence but in greater detail. In addition, the Go Live guide provides key contact information for support personnel and sources for self-help, such as a resource center.
 
-Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list of key activities you will need to complete in order to successfully transition your computer to the NewSystem operating system and browser:
+<br>
+<hr>
+##### Work Sample: ProjectLogic Go Live Guide
+<br>
+Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will find a list of key activities you will need to complete in order to successfully transition your computer to the <b>NewSystem</b> operating system and browser:
 - Storing personal files properly
 - Reviewing job aids
 - Creating your logon ID and password
-- Logging on to NewSystem for the first time
+- Logging on to <b>NewSystem</b> for the first time
 
 <br>
 <hr>
@@ -64,13 +69,13 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 <div class="row" >
   <div class="small-12 medium-8 columns t30">
     <h4>Activity 2: Review Job Aids</h4>
-    <p style="margin:0;">Prior to the upgrade, review the following job aids available at the ProjectLogic Resource Center:</p>
+    <p style="margin:0;">Prior to the upgrade, review the following job aids available at the <b>ProjectLogic Resource Center</b>:</p>
     <ul>
-      <li>ProjectLogic Go Live Guide</li>
-      <li>NewSystem Quick Start Guide</li>
-      <li>SoftwareStore Download Guide</li>
+      <li><b>ProjectLogic Go Live Guide</b></li>
+      <li><b>NewSystem Quick Start Guide</b></li>
+      <li><b>SoftwareStore Download Guide</b></li>
     </ul>
-    <p><b>Note: Additional resources are available at the ProjectLogic Resource Center including FAQs and the Team Discussion Board.</b></p>
+    <p><b>Note: Additional resources are available at the <b>ProjectLogic Resource Center</b> including FAQs and the Team Discussion Board.</b></p>
   </div>
   <div class="small-12 medium-4 columns t30">
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act02_thumb.jpg" alt=""></div>
@@ -82,10 +87,10 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 <div class="row" >
   <div class="small-12 medium-8 columns t30">
     <h4>Activity 3: Create a Single ID and Password with OnePass</h4>
-    <p style="margin:0;">Prior to the upgrade, go to OnePass and create your profile:</p>
+    <p style="margin:0;">Prior to the upgrade, go to <b>OnePass</b> and create your profile:</p>
     <ul>
-      <li>Navigate to OnePass.Companyone.com</li>
-      <li>Click the Create / Update Profile button</li>
+      <li>Navigate to <b><i>OnePass.Companyone.com<i></b></li>
+      <li>Click the <b>Create / Update Profile</b> button</li>
       <li>Enter your new Logon and Password</li>
       <li>Check your email the day before your scheduled upgrade for more communications</li>
     </ul>
@@ -103,12 +108,12 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
     <h4>Activity 4: Complete “Night Before” Actions</h4>
     <p style="margin:0;">The night before your upgrade, complete the following actions:</p>
     <ul>
-      <li>Print the ProjectLogic Go Live Guide</li>
+      <li>Print the <b>ProjectLogic Go Live Guide</b></li>
       <li>Make sure your computer power cord is plugged into a power outlet and attached to your computer</li>
-      <li>Check that your computer is physically cabled to the Companyone network</li>
+      <li>Check that your computer is physically cabled to the <span style="font-family: Times; font-weight: bold">Companyone</span> network</li>
       <li>Save any in-progress tasks</li>
       <li>Exit applications you have open</li>
-      <li>Log out of LegacySystem</li>
+      <li>Log out of <b>LegacySystem</b></li>
     </ul>
     <p><b>NOTE: Failure to follow the instructions above will result in a failed upgrade for your computer.</b></p>
   </div>
@@ -124,7 +129,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
     <h4>Activity 5: Know Where to Go for Help</h4>
     <p style="margin:0;">If you have issues before or after Go Live, support is available through:</p>
     <ul>
-      <li>The ProjectLogic Resource Center (<i>ProjectLogic.Companyone.com</i>)</li>
+      <li>The <b>ProjectLogic Resource Center</b> (<i>ProjectLogic.Companyone.com</i>)</li>
       <li>Security Administration (<i>555.555.5555</i>)</li>
     </ul>
   </div>
@@ -138,7 +143,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 <div class="row" >
   <div class="small-12 medium-8 columns t30">
     <h4>Activity 6: Successfully Logon to NewSystem for the First Time</h4>
-    <p style="margin:0;">Follow the instructions below to log on to NewSystem:</p>
+    <p style="margin:0;">Follow the instructions below to log on to <b>NewSystem</b>:</p>
     <ul>
       <li>In the <b>User name</b> field, enter your <b>OnePass</b> ID</li>
       <li>In the <b>Password</b> field, enter your <b>OnePass</b> password</li>
@@ -155,18 +160,18 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 <div class="row" >
   <div class="small-12 medium-8 columns t30">
     <h4>Activity 7: Get Set Up in NewSystem</h4>
-    <p style="margin:0;">After successfully logging on to NewSystem, verify you have access to your:</p>
+    <p style="margin:0;">After successfully logging on to <b>NewSystem</b>, verify you have access to your:</p>
     <ul>
-      <li>Personal files (My Documents folder)</li>
+      <li>Personal files ("My Documents" folder)</li>
       <li>Group files (shared network drives)</li>
-      <li>Applications </li>
+      <li>Applications</li>
     </ul>
     <p style="margin:0;">Verify you are connected to:</p>
     <ul>
       <li>Network printers</li>
       <li>Local peripherals (printers and scanners)</li>
     </ul>
-    <p><b>NOTE: Additional or missing applications can be downloaded at the Companyone SoftwareStore. Instructions for downloading software are available in the SoftwareStore Download Guide.</b></p>
+    <p><b>NOTE: Additional or missing applications can be downloaded at the <span style="font-family: Times; font-weight: bold">Companyone</span> <b>SoftwareStore</b>. Instructions for downloading software are available in the SoftwareStore Download Guide.</b></p>
   </div>
   <div class="small-12 medium-4 columns t30">
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act07_thumb.jpg" alt=""></div>
