@@ -25,9 +25,12 @@ image:
 ---
 ##title
 <div class="row" >
-  <div class="medium-12 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_widget.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_title.jpg" alt=""></strong>
+  <div class="small-12 medium-4 columns t30">
+    <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_widget.jpg" alt=""></div>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_title.jpg" alt=""></div>
+  </div>
+  <div class="small-12 medium-8 columns t30">
+    xxx
   </div>
 </div>
 
