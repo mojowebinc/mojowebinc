@@ -23,7 +23,7 @@ image:
     caption: Photo by @jbriscoe - Unsplash.
     caption_url: https://unsplash.com/@jbriscoe
 ---
-##title
+##titlex
 <div class="row" >
   <div class="small-12 medium-4 columns t30">
     <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_widget.jpg" alt=""></div>
