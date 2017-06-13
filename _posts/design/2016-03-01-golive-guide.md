@@ -41,6 +41,8 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 <br>
 <hr>
 
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
+
 <div class="row" >
 
   <div class="small-12 medium-8 columns t30">
