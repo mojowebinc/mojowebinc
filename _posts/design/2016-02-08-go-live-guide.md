@@ -48,8 +48,8 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 01x
 <div class="row">
   <div class="small-12 medium-4 Columns t30">
-    <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
-    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></div>
+    <p class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></p>
+    <p class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></p>
   </div>
 
   <div class="small-12 medium-8 Columns t30">
