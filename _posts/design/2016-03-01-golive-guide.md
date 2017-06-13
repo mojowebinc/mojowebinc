@@ -54,7 +54,6 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
     </ul>
     <p><b>NOTE: Failure to properly store your files can result in files being permanently lost.</b></p>
   </div>
-
   <div class="small-12 medium-4 columns t30">
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></div>
   </div>
