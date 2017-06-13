@@ -25,7 +25,15 @@ image:
     caption_url: https://unsplash.com/@jbriscoe
 ---
 <!--more-->
-this is a test to see if the changes worked
+A Go Live Guide is a list of key activities employees need to complete to have a successful Go Live. Like a roadmap or action plan, a Go Live Guide lists activities in sequence, but in greater detail. In addition, the Go Live Guide provides key contact information for support personnel and sources for self-help, such as an online resource center.
+
+<br>
+<hr>
+#### Work Sample: ProjectLogic Go Live Guide
+<br>
+
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_header_sm.jpg" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_header_lg.jpg" alt=""></div>
 
 
 
