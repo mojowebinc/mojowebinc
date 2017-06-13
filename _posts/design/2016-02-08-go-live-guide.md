@@ -46,18 +46,21 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 <br>
 <hr>
 01
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></div>
-</p>
-
-<h4>Activity 1: Store Your files</h4>
-<p>Move you files to the proper location:</p>
-<ul>
-  <li>Individual Files: Store in your "My Documents" folder</li>
-  <li>Group Files: Store in your network share drive</li>
-</ul>
-<b>NOTE: Failure to store your files properly can result in files being permanently lost.</b>
+<div class="row">
+  <div class="small-12 medium-3 Columns">
+    <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></div>
+  </div>
+  <div class="small-12 medium-3 Columns">
+    <h4>Activity 1: Store Your files</h4>
+    <p>Move your files to the proper location:</p>
+    <ul>
+      <li>Individual Files: Store in your "My Documents" folder</li>
+      <li>Group Files: Store on your network share drive</li>
+    </ul>
+    <b>NOTE: Failure to store your files properly can result in files being permanently lost.</b>
+  </div>
+</div>
 
 <br>
 <hr>
@@ -130,7 +133,6 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
   <li>The <b>ProjectLogic Resource Center</b> <i>(ProjectLogic.Companyone.com)</i></li>
   <li>Security Administration (<i>555.555.5555</i>)</li>
 </ul>
-<b>NOTE: Failure to follow the instructions above will result in a failed upgrade for your computer.</b>
 
 <br>
 <hr>
@@ -147,7 +149,6 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
   <li>In the <b>User Name</b> field, enter your <b>OnePass</b> ID</li>
   <li>In the <b>Password</b> field, enter your <b>OnePass</b> Password</li>
 </ul>
-<b>NOTE: Failure to follow the instructions above will result in a failed upgrade for your computer.</b>
 
 <br>
 <hr>
