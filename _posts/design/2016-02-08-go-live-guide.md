@@ -48,7 +48,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 01
 <p>
   <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
+  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></div>
 </p>
 
 <h4>Activity 1: Store Your files</h4>
@@ -64,7 +64,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 02
 <p>
   <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act02_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act02_widget.jpg" alt=""></div>
+  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act02_thumb.jpg" alt=""></div>
 </p>
 
 <h4>Activity 2: Review Job Aids</h4>
@@ -82,7 +82,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 03
 <p>
   <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act03_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act03_widget.jpg" alt=""></div>
+  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act03_thumb.jpg" alt=""></div>
 </p>
 
 <h4>Activity 3: Create ID and Password with OnePass</h4>
@@ -101,7 +101,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 04
 <p>
   <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act04_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act04_widget.jpg" alt=""></div>
+  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act04_thumb.jpg" alt=""></div>
 </p>
 
 <h4>Activity 4: Complete "Night Before" Actions</h4>
@@ -121,7 +121,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 05
 <p>
   <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act05_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act05_widget.jpg" alt=""></div>
+  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act05_thumb.jpg" alt=""></div>
 </p>
 
 <h4>Activity 5: Know Where to Go For Help</h4>
@@ -138,7 +138,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 06
 <p>
   <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act06_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act06_widget.jpg" alt=""></div>
+  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act06_thumb.jpg" alt=""></div>
 </p>
 
 <h4>Activity 6: Successfully Logon to NewSystem for the First Time</h4>
@@ -155,7 +155,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 06
 <p>
   <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act07_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act07_widget.jpg" alt=""></div>
+  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act07_thumb.jpg" alt=""></div>
 </p>
 
 <h4>Activity 7: Get Set Up in NewSystem</h4>
