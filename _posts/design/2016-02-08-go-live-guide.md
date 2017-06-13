@@ -51,7 +51,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
     <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></div>
   </div>
-  <div class="small-12 medium-3 Columns">
+  <div class="small-12 medium-9 Columns">
     <h4>Activity 1: Store Your files</h4>
     <p>Move your files to the proper location:</p>
     <ul>
