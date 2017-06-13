@@ -104,7 +104,7 @@ image:
 <br>
 <hr>
 <br>
-### More Communication Posts
+### Additional Instructional Design Information
 {: .t60 }
 
-{% include list-posts tag='Communication Deliverable' %}
+{% include list-posts tag='Instructional Design Deliverable' %}
