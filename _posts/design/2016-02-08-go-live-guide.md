@@ -45,7 +45,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 
 <br>
 <hr>
-
+01
 <p>
   <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
   <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
@@ -58,6 +58,26 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
   <li>Group Files: Store in your network share drive</li>
 </ul>
 <b>NOTE: Failure to store your files properly can result in files being permanently lost.</b>
+
+<br>
+<hr>
+02
+<p>
+  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act02_widget.jpg" alt=""></div>
+  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act02_widget.jpg" alt=""></div>
+</p>
+
+<h4>Activity 2: Review Job Aids</h4>
+<p>Prior to the upgrade, review the following documents located at the <b>ProjectLogic Resource Center</b>:</p>
+<ul>
+  <li>ProjectLogic Go Live Guide</li>
+  <li>NewSystem Quick Start Guide</li>
+  <li>SoftwareStore Download Guide</li>
+</ul>
+<b>NOTE: Additional resources are available at the <b>ProjectLogic Resource Center</b> including FAQs and The Team Discussion Board.</b>
+
+<br>
+<hr>
 
 
 ### More Instructional Design Posts
