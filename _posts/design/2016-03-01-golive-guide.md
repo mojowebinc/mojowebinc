@@ -43,7 +43,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 <div class="row" >
 
   <div class="small-12 medium-8 columns t30">
-    <h3>Activity 1: Store Your Files</h3>
+    <h4>Activity 1: Store Your Files</h4>
     <p style="margin:0;">Move your files to the proper location:</p>
     <ul>
       <li>Individual Files: Store in “My Documents”</li>
