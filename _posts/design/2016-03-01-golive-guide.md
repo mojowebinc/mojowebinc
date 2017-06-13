@@ -10,11 +10,11 @@ categories:
 tags:
     - Instructional Design Deliverable
 header:
-    title: The COM Blog
+    title: The Design Blog
     background-color: "#EFC94C;"
-    image_fullwidth: 03com2000.jpg
-    caption: Photo by Startup Stock Photos.
-    caption_url: http://startupstockphotos.com/
+    image_fullwidth: 04insd2000.jpg
+    caption: Photo by Antoine @antoinebeauvillain - Unsplash.
+    caption_url: https://unsplash.com/@antoinebeauvillain
 
 image:
     #title: 99insd_glg_title.jpg
