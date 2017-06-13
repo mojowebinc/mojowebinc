@@ -1,27 +1,28 @@
 ---
 layout: page
-title: "An Employee Go Live Guide"
-subheadline: "Guidance and Support During Change"
-teaser: "Use a Go Live Guide to "guide" employees through change and connect them with support resources."
+title: "Instructional Design"
+subheadline: "Instructional Design Overview"
+teaser: "Instructional design is about creating a custom learning experience for the learner."
 breadcrumb: true
 show_meta: false
 categories:
     - Blog
 tags:
+    - Instructional Design
     - Instructional Design Deliverable
 header:
     title: The Design Blog
     background-color: "#EFC94C;"
     image_fullwidth: 04insd2000.jpg
-    caption: Photo by Antoine @antoinebeauvillain - Unsplash.
-    caption_url: https://unsplash.com/@antoinebeauvillain
+    caption: Photo by @ptrikutam - Unsplash.
+    caption_url: https://unsplash.com/@ptrikutam
 
 image:
-    #title: 99insd_glg_title.jpg
-    thumb: 99insd_glg_thumb.jpg
-    homepage: 99insd_glg_home.jpg
-    caption: Photo by @jbriscoe - Unsplash.
-    caption_url: https://unsplash.com/@jbriscoe
+    title: 77insd_160208_title.jpg
+    thumb: 77insd_160208_thumb.jpg
+    homepage: 77insd_160208_home.jpg
+    caption: Photo by @lumvox - Unsplash.
+    caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
 
