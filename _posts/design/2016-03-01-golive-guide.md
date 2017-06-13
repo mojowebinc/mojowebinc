@@ -50,6 +50,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
       <li>Individual Files: Store in “My Documents”</li>
       <li>Group Shared Files: Store on your network share drive</li>
     </ul>
+    <p><b>NOTE: Failure to properly store your files can result in files being permanently lost.</b></p>
   </div>
 
   <div class="small-12 medium-4 columns t30">
@@ -59,7 +60,6 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 
 </div>
 
-<p><b>NOTE: Failure to properly store your files can result in files being permanently lost.</b></p>
 <br>
 <hr>
 
