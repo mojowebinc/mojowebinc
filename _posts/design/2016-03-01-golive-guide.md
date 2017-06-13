@@ -56,7 +56,6 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
   </div>
 
   <div class="small-12 medium-4 columns t30">
-    <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></div>
   </div>
 
@@ -64,6 +63,8 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 
 <br>
 <hr>
+
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act02_widget.jpg" alt=""></div>
 
 <div class="row" >
 
@@ -79,14 +80,15 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
   </div>
 
   <div class="small-12 medium-4 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act02_widget.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act02_thumb.jpg" alt=""></strong>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act02_thumb.jpg" alt=""></div>
   </div>
 
 </div>
 
 <br>
 <hr>
+
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act03_widget.jpg" alt=""></div>
 
 <div class="row" >
 
@@ -103,14 +105,15 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
   </div>
 
   <div class="small-12 medium-4 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act03_widget.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act03_thumb.jpg" alt=""></strong>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act03_thumb.jpg" alt=""></div>
   </div>
 
 </div>
 
 <br>
 <hr>
+
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act04_widget.jpg" alt=""></div>
 
 <div class="row" >
 
@@ -129,14 +132,15 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
   </div>
 
   <div class="small-12 medium-4 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act04_widget.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act04_thumb.jpg" alt=""></strong>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act04_thumb.jpg" alt=""></div>
   </div>
 
 </div>
 
 <br>
 <hr>
+
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act05_widget.jpg" alt=""></div>
 
 <div class="row" >
 
@@ -150,14 +154,15 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
   </div>
 
   <div class="small-12 medium-4 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act05_widget.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act05_thumb.jpg" alt=""></strong>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act05_thumb.jpg" alt=""></div>
   </div>
 
 </div>
 
 <br>
 <hr>
+
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act06_widget.jpg" alt=""></div>
 
 <div class="row" >
 
@@ -171,14 +176,15 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
   </div>
 
   <div class="small-12 medium-4 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act06_widget.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act06_thumb.jpg" alt=""></strong>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act06_thumb.jpg" alt=""></div>
   </div>
 
 </div>
 
 <br>
 <hr>
+
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act07_widget.jpg" alt=""></div>
 
 <div class="row" >
 
@@ -201,8 +207,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
   </div>
 
   <div class="small-12 medium-4 columns t30">
-    <strong class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act07_widget.jpg" alt=""></strong>
-    <strong class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act07_thumb.jpg" alt=""></strong>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act07_thumb.jpg" alt=""></div>
   </div>
 
 </div>
