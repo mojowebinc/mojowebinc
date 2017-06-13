@@ -46,9 +46,9 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 <br>
 <hr>
 01
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
 <div class="row">
   <div class="small-4 medium-4 Columns t30">
-    <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></div>
   </div>
   <div class="small-8 medium-8 Columns t30">
