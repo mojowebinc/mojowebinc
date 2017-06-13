@@ -70,9 +70,9 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 <h4>Activity 2: Review Job Aids</h4>
 <p>Prior to the upgrade, review the following documents located at the <b>ProjectLogic Resource Center</b>:</p>
 <ul>
-  <li>ProjectLogic Go Live Guide</li>
-  <li>NewSystem Quick Start Guide</li>
-  <li>SoftwareStore Download Guide</li>
+  <li><b>ProjectLogic Go Live Guide</b></li>
+  <li><b>NewSystem Quick Start Guide</b></li>
+  <li><b>SoftwareStore Download Guide</b></li>
 </ul>
 <b>NOTE: Additional resources are available at the <b>ProjectLogic Resource Center</b> including FAQs and The Team Discussion Board.</b>
 
@@ -90,9 +90,10 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 <ul>
   <li>Navigate to <b>OnePass.Companyone.com</b></li>
   <li>Click the <b>Create Profile</b> button</li>
-  <li>SoftwareStore Download Guide</li>
+  <li>Enter your new logon ID and Password</li>
+  <li>Check your email the day before Go Live for additional communications</li>
 </ul>
-<b>NOTE: Additional resources are available at the <b>ProjectLogic Resource Center</b> including FAQs and The Team Discussion Board.</b>
+<b>NOTE: If you need assistance during the account creation process, contact Security Administration (555) 555-5555.</b>
 
 <br>
 <hr>
