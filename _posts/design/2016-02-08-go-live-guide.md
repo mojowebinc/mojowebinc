@@ -45,13 +45,14 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 
 <br>
 <hr>
-01
-<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
+01x
 <div class="row">
-  <div class="small-4 medium-4 Columns t30">
+  <div class="small-12 medium-4 Columns t30">
+    <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></div>
   </div>
-  <div class="small-8 medium-8 Columns t30">
+
+  <div class="small-12 medium-8 Columns t30">
     <h4>Activity 1: Store Your files</h4>
     <p>Move your files to the proper location:</p>
       <ul>
@@ -60,6 +61,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
       </ul>
     <b>NOTE: Failure to store your files properly can result in files being permanently lost.</b>
   </div>
+
 </div>
 
 <br>
