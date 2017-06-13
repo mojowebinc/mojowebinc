@@ -45,7 +45,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
     <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></div>
   </div>
-  <div class="small-12 medium-4 columns t30">
+  <div class="small-12 medium-8 columns t30">
     <h4>Activity 1: Store Your Files</h4>
     <p style="margin:0;">Move your files to the proper location:</p>
     <ul>
