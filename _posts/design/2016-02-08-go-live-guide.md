@@ -79,6 +79,24 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 <br>
 <hr>
 
+03
+<p>
+  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act03_widget.jpg" alt=""></div>
+  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act03_widget.jpg" alt=""></div>
+</p>
+
+<h4>Activity 3: Create ID and Password with OnePass</h4>
+<p>Prior to the upgrade, go to <b>OnePass</b> and create your profile:</p>
+<ul>
+  <li>Navigate to <b>OnePass.Companyone.com</b></li>
+  <li>Click the <b>Create Profile</b> button</li>
+  <li>SoftwareStore Download Guide</li>
+</ul>
+<b>NOTE: Additional resources are available at the <b>ProjectLogic Resource Center</b> including FAQs and The Team Discussion Board.</b>
+
+<br>
+<hr>
+
 
 ### More Instructional Design Posts
 {: .t60 }
