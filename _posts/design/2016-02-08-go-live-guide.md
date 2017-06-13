@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Instructional Design"
-subheadline: "Instructional Design Overview"
-teaser: "Instructional design is about creating a custom learning experience for the learner."
+title: "Text go live guide"
+subheadline: "test go live guide"
+teaser: "test go live guide"
 breadcrumb: true
 show_meta: false
 categories:
@@ -25,6 +25,8 @@ image:
     caption_url: https://unsplash.com/@lumvox
 ---
 <!--more-->
+this is a test to see if the changes worked
+
 
 
 
