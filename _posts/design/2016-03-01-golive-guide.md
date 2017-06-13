@@ -58,15 +58,11 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
   <div class="small-12 medium-4 columns t30">
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_thumb.jpg" alt=""></div>
   </div>
-
 </div>
-
 <hr>
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act02_widget.jpg" alt=""></div>
-
 <div class="row" >
-
   <div class="small-12 medium-8 columns t30">
     <h4>Activity 2: Review Job Aids</h4>
     <p style="margin:0;">Prior to the upgrade, review the following job aids available at the ProjectLogic Resource Center (<i>ProjectLogic.Companyone.com</i>):</p>
@@ -77,19 +73,14 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
     </ul>
     <p><b>Note: Additional resources are available at the ProjectLogic Resource Center including FAQs and the Team Discussion Board.</b></p>
   </div>
-
   <div class="small-12 medium-4 columns t30">
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act02_thumb.jpg" alt=""></div>
   </div>
-
 </div>
-
 <hr>
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act03_widget.jpg" alt=""></div>
-
 <div class="row" >
-
   <div class="small-12 medium-8 columns t30">
     <h4>Activity 3: Create a Single ID and Password with OnePass</h4>
     <p style="margin:0;">Prior to the upgrade, go to OnePass and create your profile:</p>
@@ -101,19 +92,14 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
     </ul>
     <p><b>NOTE: (If you need help during the account creation process, please contact Security Administration at 555.555.5555)</b></p>
   </div>
-
   <div class="small-12 medium-4 columns t30">
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act03_thumb.jpg" alt=""></div>
   </div>
-
 </div>
-
 <hr>
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act04_widget.jpg" alt=""></div>
-
 <div class="row" >
-
   <div class="small-12 medium-8 columns t30">
     <h4>Activity 4: Complete “Night Before” Actions</h4>
     <p style="margin:0;">The night before your upgrade, complete the following actions:</p>
@@ -127,19 +113,14 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
     </ul>
     <p><b>NOTE: Failure to follow the instructions above will result in a failed upgrade for your computer.</b></p>
   </div>
-
   <div class="small-12 medium-4 columns t30">
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act04_thumb.jpg" alt=""></div>
   </div>
-
 </div>
-
 <hr>
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act05_widget.jpg" alt=""></div>
-
 <div class="row" >
-
   <div class="small-12 medium-8 columns t30">
     <h4>Activity 5: Know Where to Go for Help</h4>
     <p style="margin:0;">If you have issues before or after Go Live, support is available through:</p>
@@ -148,19 +129,14 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
       <li>Security Administration (<i>555.555.5555</i>)</li>
     </ul>
   </div>
-
   <div class="small-12 medium-4 columns t30">
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act05_thumb.jpg" alt=""></div>
   </div>
-
 </div>
-
 <hr>
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act06_widget.jpg" alt=""></div>
-
 <div class="row" >
-
   <div class="small-12 medium-8 columns t30">
     <h4>Activity 6: Successfully Logon to NewSystem for the First Time</h4>
     <p style="margin:0;">Follow the instructions below to log on to NewSystem:</p>
@@ -169,19 +145,14 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
       <li>In the <b>OK</b></li>
     </ul>
   </div>
-
   <div class="small-12 medium-4 columns t30">
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act06_thumb.jpg" alt=""></div>
   </div>
-
 </div>
-
 <hr>
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act07_widget.jpg" alt=""></div>
-
 <div class="row" >
-
   <div class="small-12 medium-8 columns t30">
     <h4>Activity 7: Get Set Up in NewSystem</h4>
     <p style="margin:0;">After successfully logging on to NewSystem, verify you have access to your:</p>
@@ -190,22 +161,17 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
       <li>Group files (shared network drives)</li>
       <li>Applications </li>
     </ul>
-
     <p style="margin:0;">Verify you are connected to:</p>
     <ul>
       <li>Network printers</li>
       <li>Local peripherals (printers and scanners)</li>
     </ul>
-
     <p><b>NOTE: Additional or missing applications can be downloaded at the Companyone SoftwareStore.</b></p>
   </div>
-
   <div class="small-12 medium-4 columns t30">
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act07_thumb.jpg" alt=""></div>
   </div>
-
 </div>
-
 <hr>
 <br>
 ### Additional Instructional Design Information
