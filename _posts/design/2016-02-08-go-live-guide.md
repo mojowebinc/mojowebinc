@@ -35,6 +35,14 @@ A Go Live Guide is a list of key activities employees need to complete to have a
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_header_sm.jpg" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_header_lg.jpg" alt=""></div>
 
+Welcome to the </b>ProjectLogic Go Live Guide</b>. Inside this guide, you will find a list of key activities you need to complete in order to successfully upgrade your computer to the <b>NewSystem</b> operating system and browser:
+- Storing personal files safely
+- Reviewing job aids
+- Creating you new ID and Password
+- Logging on to <b>NewSystem</b> for the first time
+
+<br>
+<hr>
 
 
 
