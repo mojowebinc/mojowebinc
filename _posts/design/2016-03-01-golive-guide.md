@@ -32,7 +32,7 @@ image:
 
 ### Go Live Guide
 
-Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list of key activities you will need to complete in order to successfully transition to your computer to the NewSystem operating system and browser:
+Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list of key activities you will need to complete in order to successfully transition your computer to the NewSystem operating system and browser:
 - Storing personal files properly
 - Reviewing job aids
 - Creating your logon ID and password
@@ -49,7 +49,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
     <h4>Activity 1: Store Your Files</h4>
     <p style="margin:0;">Move your files to the proper location:</p>
     <ul>
-      <li>Individual Files: Store in “My Documents”</li>
+      <li>Individual Files: Store in your “My Documents” folder</li>
       <li>Group Shared Files: Store on your network share drive</li>
     </ul>
     <p><b>NOTE: Failure to properly store your files can result in files being permanently lost.</b></p>
@@ -64,7 +64,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 <div class="row" >
   <div class="small-12 medium-8 columns t30">
     <h4>Activity 2: Review Job Aids</h4>
-    <p style="margin:0;">Prior to the upgrade, review the following job aids available at the ProjectLogic Resource Center (<i>ProjectLogic.Companyone.com</i>):</p>
+    <p style="margin:0;">Prior to the upgrade, review the following job aids available at the ProjectLogic Resource Center:</p>
     <ul>
       <li>ProjectLogic Go Live Guide</li>
       <li>NewSystem Quick Start Guide</li>
@@ -141,7 +141,8 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
     <p style="margin:0;">Follow the instructions below to log on to NewSystem:</p>
     <ul>
       <li>In the <b>User name</b> field, enter your <b>OnePass</b> ID</li>
-      <li>In the <b>OK</b></li>
+      <li>In the <b>Password</b> field, enter your <b>OnePass</b> password</li>
+      <li>Click <b>OK</b></li>
     </ul>
   </div>
   <div class="small-12 medium-4 columns t30">
@@ -165,7 +166,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
       <li>Network printers</li>
       <li>Local peripherals (printers and scanners)</li>
     </ul>
-    <p><b>NOTE: Additional or missing applications can be downloaded at the Companyone SoftwareStore.</b></p>
+    <p><b>NOTE: Additional or missing applications can be downloaded at the Companyone SoftwareStore. Instructions for downloading software are available in the SoftwareStore Download Guide.</b></p>
   </div>
   <div class="small-12 medium-4 columns t30">
     <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act07_thumb.jpg" alt=""></div>
