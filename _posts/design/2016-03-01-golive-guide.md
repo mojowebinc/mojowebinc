@@ -2,7 +2,7 @@
 layout: page
 title: "An Employee Go Live Guide"
 subheadline: "Guidance and Support During Change"
-teaser: "Use a Go Live Guide to 'guide' employees through change and connect them with support resources."
+teaser: "Use a Go Live Guide to "guide" employees through change and connect them with support resources."
 breadcrumb: true
 show_meta: false
 categories:
