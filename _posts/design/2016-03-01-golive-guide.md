@@ -88,7 +88,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 <div class="row" >
 
   <div class="small-12 medium-8 columns t30">
-    <h3>Activity 3: Create a Single ID and Password with OnePass/h3>
+    <h3>Activity 3: Create a Single ID and Password with OnePass</h3>
     <p style="margin:0;">Prior to the upgrade, go to OnePass and create your profile:</p>
     <ul>
       <li>Navigate to OnePass.Companyone.com</li>
@@ -112,7 +112,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 <div class="row" >
 
   <div class="small-12 medium-8 columns t30">
-    <h3>Activity 4:  Complete “Night Before” Actions</h3>
+    <h3>Activity 4: Complete “Night Before” Actions</h3>
     <p style="margin:0;">The night before your upgrade, complete the following actions:</p>
     <ul>
       <li>Print the ProjectLogic Go Live Guide</li>
@@ -138,7 +138,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 <div class="row" >
 
   <div class="small-12 medium-8 columns t30">
-    <h3>Activity 5:  Know Where to Go for Help</h3>
+    <h3>Activity 5: Know Where to Go for Help</h3>
     <p style="margin:0;">If you have issues before or after Go Live, support is available through:</p>
     <ul>
       <li>The ProjectLogic Resource Center (<i>ProjectLogic.Companyone.com</i>)</li>
@@ -159,7 +159,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 <div class="row" >
 
   <div class="small-12 medium-8 columns t30">
-    <h3>Activity  6: Successfully Logon to NewSystem for the First Time</h3>
+    <h3>Activity 6: Successfully Logon to NewSystem for the First Time</h3>
     <p style="margin:0;">Follow the instructions below to log on to NewSystem:</p>
     <ul>
       <li>In the <b>User name</b> field, enter your <b>OnePass</b> ID</li>
@@ -180,7 +180,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 <div class="row" >
 
   <div class="small-12 medium-8 columns t30">
-    <h3>Activity 7:  Get Set Up in NewSystem</h3>
+    <h3>Activity 7: Get Set Up in NewSystem</h3>
     <p style="margin:0;">After successfully logging on to NewSystem, verify you have access to your:</p>
     <ul>
       <li>Personal files (My Documents folder)</li>
