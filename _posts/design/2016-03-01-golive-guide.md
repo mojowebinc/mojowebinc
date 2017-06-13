@@ -97,7 +97,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
     <h4>Activity 3: Create a Single ID and Password with OnePass</h4>
     <p style="margin:0;">Prior to the upgrade, go to <b>OnePass</b> and create your profile:</p>
     <ul>
-      <li>Navigate to <b>OnePass.Companyone.com</b></li>
+      <li>Navigate to OnePass.Companyone.com</li>
       <li>Click the <b>Create / Update Profile</b> button</li>
       <li>Enter your new Logon and Password</li>
       <li>Check your email the day before your scheduled upgrade for more communications</li>
