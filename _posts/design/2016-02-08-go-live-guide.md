@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Text go live guide"
-subheadline: "test go live guide"
-teaser: "test go live guide"
+title: "An Employee Go Live Guide"
+subheadline: "Guidance and Support During Change"
+teaser: "Guide employees through change and connect them with support resources with a Go Live Guide."
 breadcrumb: true
 show_meta: false
 categories:
@@ -18,11 +18,11 @@ header:
     caption_url: https://unsplash.com/@ptrikutam
 
 image:
-    title: 77insd_160208_title.jpg
-    thumb: 77insd_160208_thumb.jpg
-    homepage: 77insd_160208_home.jpg
-    caption: Photo by @lumvox - Unsplash.
-    caption_url: https://unsplash.com/@lumvox
+    title: 99insd_glg_title.jpg
+    thumb: 99insd_glg_thumb.jpg
+    homepage: 99insd_glg__home.jpg
+    caption: Photo by @jbriscoe - Unsplash.
+    caption_url: https://unsplash.com/@jbriscoe
 ---
 <!--more-->
 this is a test to see if the changes worked
