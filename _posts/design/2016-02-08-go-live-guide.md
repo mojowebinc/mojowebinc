@@ -36,7 +36,7 @@ A Go Live Guide is a list of key activities employees need to complete to have a
   <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_header_sm.jpg" alt=""></div>
   <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_header_lg.jpg" alt=""></div>
 </p>
-
+<p></p>
 Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will find a list of key activities you need to complete in order to successfully upgrade your computer to the <b>NewSystem</b> operating system and browser:
 - Storing personal files safely
 - Reviewing job aids
@@ -46,8 +46,18 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 <br>
 <hr>
 
+<p>
+  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
+  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
+</p>
 
-
+<h4>Activity 1: Store Your files</h4>
+<p>Move you files to the proper location:</p>
+<ul>
+  <li>Individual Files: Store in your "My Documents" folder</li>
+  <li>Group Files: Store in your network share drive</li>
+</ul>
+<b>NOTE: Failure to store your files properly can result in files being permanently lost.</b>
 
 
 ### More Instructional Design Posts
