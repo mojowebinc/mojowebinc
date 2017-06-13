@@ -58,8 +58,8 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
   </div>
 
 </div>
-<p><b>NOTE: Failure to properly store your files can result in files being permanently lost.</b></p>
 
+<p><b>NOTE: Failure to properly store your files can result in files being permanently lost.</b></p>
 <br>
 <hr>
 
