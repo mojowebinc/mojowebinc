@@ -9,8 +9,7 @@ categories:
     - Blog
 tags:
     - Instructional Design
-    - Instructional Design Approach
-    - Instructional Design Theory
+    - Instructional Design Deliverable
 header:
     title: The Design Blog
     background-color: "#EFC94C;"
