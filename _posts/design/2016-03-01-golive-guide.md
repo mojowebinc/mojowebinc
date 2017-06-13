@@ -40,7 +40,6 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 
 <br>
 <hr>
-<br>
 
 <div class="row" >
 
@@ -63,7 +62,6 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 
 <br>
 <hr>
-<br>
 
 <div class="row" >
 
@@ -87,7 +85,6 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 
 <br>
 <hr>
-<br>
 
 <div class="row" >
 
@@ -112,7 +109,6 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 
 <br>
 <hr>
-<br>
 
 <div class="row" >
 
@@ -138,7 +134,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 </div>
 
 <br>
-
+<hr>
 
 <div class="row" >
 
@@ -159,7 +155,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 </div>
 
 <br>
-
+<hr>
 
 <div class="row" >
 
@@ -180,7 +176,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 </div>
 
 <br>
-
+<hr>
 
 <div class="row" >
 
@@ -208,8 +204,6 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
   </div>
 
 </div>
-
-<br>
 
 <br>
 <hr>
