@@ -212,7 +212,7 @@ Welcome to the NewSystem Go Live Guide. Inside this guide, you will find a list 
 
 </div>
 
-<br>
+<div class="show-for-small-only"<br></br><div>
 <hr>
 <br>
 ### Additional Instructional Design Information
