@@ -86,90 +86,105 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 <hr>
 
 03
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act03_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act03_thumb.jpg" alt=""></div>
-</p>
-
-<h4>Activity 3: Create ID and Password with OnePass</h4>
-<p>Prior to the upgrade, go to <b>OnePass</b> and create your profile:</p>
-<ul>
-  <li>Navigate to <b>OnePass.Companyone.com</b></li>
-  <li>Click the <b>Create Profile</b> button</li>
-  <li>Enter your new logon ID and Password</li>
-  <li>Check your email the day before Go Live for additional communications</li>
-</ul>
-<b>NOTE: If you need assistance during the account creation process, contact Security Administration (555) 555-5555.</b>
+<div class="row">
+  <div class="small-12 medium-4 medium-push-8 columns t30">
+    <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act03_widget.jpg" alt=""></div>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act03_thumb.jpg" alt=""></div>
+  </div>
+  <div class="small-12 medium-8 medium-pull-4 columns t30">
+    <h4>Activity 3: Create ID and Password with OnePass</h4>
+    <p>Prior to the upgrade, go to <b>OnePass</b> and create your profile:</p>
+    <ul>
+      <li>Navigate to <b>OnePass.Companyone.com</b></li>
+      <li>Click the <b>Create Profile</b> button</li>
+      <li>Enter your new logon ID and Password</li>
+      <li>Check your email the day before Go Live for additional communications</li>
+    </ul>
+    <b>NOTE: If you need assistance during the account creation process, contact Security Administration (555) 555-5555.</b>
+  </div>
+</div>
 
 <br>
 <hr>
 
 04
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act04_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act04_thumb.jpg" alt=""></div>
-</p>
-
-<h4>Activity 4: Complete "Night Before" Actions</h4>
-<p>The night before your upgrade:</p>
-<ul>
-  <li>Print the <b>ProjectLogic Go Live Guide</b></li>
-  <li>Make sure your power cord is plugged into your computer and a power outlet</li>
-  <li>Check that you computer is physically cabled to the <span style="font-family: Times; font-weight: bold">Companyone</span> network</li>
-  <li>Save open tasks and exit applications</li>
-  <li>Log out of <b>LegacySystem</b></li>
-</ul>
-<b>NOTE: Failure to follow the instructions above will result in a failed upgrade for your computer.</b>
+<div class="row">
+  <div class="small-12 medium-4 medium-push-8 columns t30">
+    <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act04_widget.jpg" alt=""></div>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act04_thumb.jpg" alt=""></div>
+  </div>
+  <div class="small-12 medium-8 medium-pull-4 columns t30">
+    <h4>Activity 4: Complete "Night Before" Actions</h4>
+    <p>The night before your upgrade:</p>
+    <ul>
+      <li>Print the <b>ProjectLogic Go Live Guide</b></li>
+      <li>Make sure your power cord is plugged into your computer and a power outlet</li>
+      <li>Check that you computer is physically cabled to the <span style="font-family: Times; font-weight: bold">Companyone</span> network</li>
+      <li>Save open tasks and exit applications</li>
+      <li>Log out of <b>LegacySystem</b></li>
+    </ul>
+    <b>NOTE: Failure to follow the instructions above will result in a failed upgrade for your computer.</b>
+  </div>
+</div>
 
 <br>
 <hr>
 
 05
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act05_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act05_thumb.jpg" alt=""></div>
-</p>
-
-<h4>Activity 5: Know Where to Go For Help</h4>
-<p>If you have issues before or after Go Live, support is available through:</p>
-<ul>
-  <li>The <b>ProjectLogic Resource Center</b> <i>(ProjectLogic.Companyone.com)</i></li>
-  <li>Security Administration (<i>555.555.5555</i>)</li>
-</ul>
-
-<br>
-<hr>
-
-06
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act06_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act06_thumb.jpg" alt=""></div>
-</p>
-
-<h4>Activity 6: Successfully Logon to NewSystem for the First Time</h4>
-<p>Follow the instructions below to Logon to <b>NewSystem</b>:</p>
-<ul>
-  <li>In the <b>User Name</b> field, enter your <b>OnePass</b> ID</li>
-  <li>In the <b>Password</b> field, enter your <b>OnePass</b> Password</li>
-</ul>
+<div class="row">
+  <div class="small-12 medium-4 medium-push-8 columns t30">
+    <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act05_widget.jpg" alt=""></div>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act05_thumb.jpg" alt=""></div>
+  </div>
+  <div class="small-12 medium-8 medium-pull-4 columns t30">
+    <h4>Activity 5: Know Where to Go For Help</h4>
+    <p>If you have issues before or after Go Live, support is available through:</p>
+    <ul>
+      <li>The <b>ProjectLogic Resource Center</b> <i>(ProjectLogic.Companyone.com)</i></li>
+      <li>Security Administration (<i>555.555.5555</i>)</li>
+    </ul>
+  </div>
+</div>
 
 <br>
 <hr>
 
 06
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act07_widget.jpg" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act07_thumb.jpg" alt=""></div>
-</p>
+<div class="row">
+  <div class="small-12 medium-4 medium-push-8 columns t30">
+    <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act06_widget.jpg" alt=""></div>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act06_thumb.jpg" alt=""></div>
+  </div>
+  <div class="small-12 medium-8 medium-pull-4 columns t30">
+    <h4>Activity 6: Successfully Logon to NewSystem for the First Time</h4>
+    <p>Follow the instructions below to Logon to <b>NewSystem</b>:</p>
+    <ul>
+      <li>In the <b>User Name</b> field, enter your <b>OnePass</b> ID</li>
+      <li>In the <b>Password</b> field, enter your <b>OnePass</b> Password</li>
+    </ul>
+  </div>
+</div>
 
-<h4>Activity 7: Get Set Up in NewSystem</h4>
-<p>After successfully logging on to <b>NewSystem</b>, verify you have access to your:</p>
-<ul>
-  <li>Personal files ("My Documents" folder)</li>
-  <li>Group files (shared network drives)</li>
-  <li>Applications</li>
-</ul>
-<b>NOTE: Missing or additional applications can be downloaded at the <span style="font-family: Times; font-weight: bold">Companyone</span> <b>SoftwareStore</b>. Instructions for downloading software are available in the <b>SoftwareStore Download Guide</b>.</b>
+<br>
+<hr>
+
+07
+<div class="row">
+  <div class="small-12 medium-4 medium-push-8 columns t30">
+    <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act07_widget.jpg" alt=""></div>
+    <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_glg_act07_thumb.jpg" alt=""></div>
+  </div>
+  <div class="small-12 medium-8 medium-pull-4 columns t30">
+    <h4>Activity 7: Get Set Up in NewSystem</h4>
+    <p>After successfully logging on to <b>NewSystem</b>, verify you have access to your:</p>
+    <ul>
+      <li>Personal files ("My Documents" folder)</li>
+      <li>Group files (shared network drives)</li>
+      <li>Applications</li>
+    </ul>
+    <b>NOTE: Missing or additional applications can be downloaded at the <span style="font-family: Times; font-weight: bold">Companyone</span> <b>SoftwareStore</b>. Instructions for downloading software are available in the <b>SoftwareStore Download Guide</b>.</b>
+  </div>
+</div>
 
 <br>
 <hr>
