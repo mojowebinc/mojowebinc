@@ -45,7 +45,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 
 <br>
 <hr>
-01
+
 <div class="row">
   <div class="small-12 medium-4 medium-push-8 columns t30">
       <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act01_widget.jpg" alt=""></div>
@@ -64,7 +64,7 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 
 <br>
 <hr>
-02
+
 <div class="row">
   <div class="small-12 medium-4 medium-push-8 columns t30">
     <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act02_widget.jpg" alt=""></div>
@@ -85,7 +85,6 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 <br>
 <hr>
 
-03
 <div class="row">
   <div class="small-12 medium-4 medium-push-8 columns t30">
     <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act03_widget.jpg" alt=""></div>
@@ -107,7 +106,6 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 <br>
 <hr>
 
-04
 <div class="row">
   <div class="small-12 medium-4 medium-push-8 columns t30">
     <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act04_widget.jpg" alt=""></div>
@@ -130,7 +128,6 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 <br>
 <hr>
 
-05
 <div class="row">
   <div class="small-12 medium-4 medium-push-8 columns t30">
     <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act05_widget.jpg" alt=""></div>
@@ -149,7 +146,6 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 <br>
 <hr>
 
-06
 <div class="row">
   <div class="small-12 medium-4 medium-push-8 columns t30">
     <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act06_widget.jpg" alt=""></div>
@@ -168,7 +164,6 @@ Welcome to the <b>ProjectLogic Go Live Guide</b>. Inside this guide, you will fi
 <br>
 <hr>
 
-07
 <div class="row">
   <div class="small-12 medium-4 medium-push-8 columns t30">
     <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_glg_act07_widget.jpg" alt=""></div>
