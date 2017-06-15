@@ -46,11 +46,11 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 
 ## Contents
 
-* [Accessing the SoftwareStore](#Accessing-the-SoftwareStore)
-* [The SoftwareStore Interface](#The-SoftwareStore-Interface)
+* [Accessing the SoftwareStore](#accessing-the-softwarestore)
+* [The SoftwareStore Interface](#the-softwarestore-interface)
 * [Viewing Your SoftwareStore Profile](#viewing-your-softwarestore-profile)
-* Downloading Applications
-* Verifying Downloads
+* [Downloading Applications](#downloading-applications)
+* [Verifying Downloads](#verifying-downloads)
 
 <hr>
 
