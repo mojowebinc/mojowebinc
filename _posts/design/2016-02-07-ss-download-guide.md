@@ -31,7 +31,6 @@ A Quickstart Guide provides a brief introduction to a product. Unlike a manual o
 
 <hr>
 ##### Work Sample
-
 ## The SoftwareStore Download Guide
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_header_sm.jpg" alt=""></div>
