@@ -42,6 +42,8 @@ Each employee at Companyone has a SoftwareStore profile that lists all assigned 
 
 If you have any questions or issues about accessing the SoftwareStore and downloading an application, please contact Security Administration (555.555.5555).
 
+<br>
+
 <hr>
 
 ## Contents
@@ -52,14 +54,15 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 * [Downloading Applications](#downloading-applications)
 * [Verifying Downloads](#verifying-downloads)
 
+<br>
+
 <hr>
 
 ### Accessing the SoftwareStore
 
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_sm.png" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_lg.png" alt=""></div>
+
 
 <p>
   <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_sm.png" alt=""></div>
