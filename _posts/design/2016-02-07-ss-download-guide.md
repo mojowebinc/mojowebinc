@@ -46,7 +46,7 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 
 ## Contents
 
-* Accessing the SoftwareStore
+* [Accessing the SoftwareStore](#Accessing the SoftwareStore)
 * The SoftwareStore Interface
 * Viewing Your SoftwareStore Profile
 * Downloading Applications
