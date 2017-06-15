@@ -48,7 +48,7 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 
 * [Accessing the SoftwareStore](#Accessing-the-SoftwareStore)
 * [The SoftwareStore Interface](#The-SoftwareStore-Interface)
-* Viewing Your SoftwareStore Profile
+* [Viewing Your SoftwareStore Profile](#viewing-your-softwarestore-profile)
 * Downloading Applications
 * Verifying Downloads
 
