@@ -26,14 +26,13 @@ image:
 ---
 <!--more-->
 A Quickstart Guide provides a brief introduction to a product. Unlike a manual or detailed work instructions, a Quickstart Guide only provides brief instructions for basic use.
+
 <br>
+
 <hr>
 ##### Work Sample
 
 ## The SoftwareStore Download Guide
-
-<br>
-
 <p>
   <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_header_sm.jpg" alt=""></div>
   <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_header_lg.jpg" alt=""></div>
