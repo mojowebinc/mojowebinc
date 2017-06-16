@@ -33,8 +33,8 @@ A Quickstart Guide provides a brief introduction to a product. Unlike a manual o
 ##### Work Sample
 ## The SoftwareStore Download Guide
 
-<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_header_sm.jpg" alt=""></div>
-<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_header_lg.jpg" alt=""></div>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_header_sm.jpg" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_header_lg.jpg" style="margin: 25px 0px 25px 0px" alt=""></div>
 
 The Companyone SoftwareStore offers employees improved accessibility to business applications. In addition to reducing download times for applications, the SoftwareStore provides increased security by reducing the threat of downloading malicious software outside the Companyone intranet.
 
@@ -66,12 +66,16 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
+[^](#contents)
+
 <hr>
 
 ### The SoftwareStore Interface
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn03_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn03_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+
+[^](#contents)
 
 <hr>
 
@@ -95,6 +99,8 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
+[^](#contents)
+
 <hr>
 
 ### Downloading Applications
@@ -117,12 +123,16 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn13_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn13_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
+[^](#contents)
+
 <hr>
 
 ### Verifying Downloads
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn14_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn14_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+
+[^](#contents)
 
 <hr>
 
