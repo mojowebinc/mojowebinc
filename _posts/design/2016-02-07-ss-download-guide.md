@@ -137,7 +137,7 @@ The **Installed** tab lists all applications that have been downloaded to your c
 
 **NOTE: You can click on an application in the application list to view additional detail in the Application Overview section.**
 
-* Click on the "X Out" icon in the upper right of the screen to exit the **SoftwareStore**.
+* Click on the "**X Out**" icon in the upper right of the screen to exit the **SoftwareStore**.
 
 <br>
 
