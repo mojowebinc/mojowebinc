@@ -78,72 +78,51 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 ### Viewing Your SoftwareStore Profile
 
 #### Available Applications
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn04_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn04_lg.png" alt=""></div>
-</p>
 
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn05_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn05_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn04_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn04_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn05_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn05_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
 #### Status of Downloads
 
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn06_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn06_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn06_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn06_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
 #### Installed Applications
 
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
 <hr>
 
 ### Downloading Applications
 
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn08_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn08_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn08_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn08_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn09_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn09_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn09_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn09_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn10_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn10_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn10_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn10_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn11_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn11_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn11_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn11_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn12_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn12_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn12_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn12_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn13_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn13_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn13_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn13_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
 <hr>
 
 ### Verifying Downloads
 
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn14_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn14_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn14_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn14_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
 <hr>
 
