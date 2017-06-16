@@ -83,9 +83,9 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 
 There are three key areas in the SoftwareStore interface:
 * **Tabs Area**: click on one of the three tabs to view specific information about the applications in your profile.
- * **Available**:
- * **Status**:
- * **Installed**:
+  * **Available**:
+  * **Status**:
+  * **Installed**:
 * **Application list Area**
 * **Status**:
 
