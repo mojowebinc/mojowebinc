@@ -66,7 +66,7 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-[^](#contents)
+[Back](#contents)
 
 <hr>
 
