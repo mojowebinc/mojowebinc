@@ -63,14 +63,14 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-1. At the **NewSystem** desktop:
+At the **NewSystem** desktop:
 * Right-click on the **NewSystem** icon in the lower left of the screen.
 * Select the **SoftwareStore** menu option.
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-2. **NewSystem** takes you to the **SoftwareStore** home page.
+**NewSystem** takes you to the **SoftwareStore** home page.
 
 [Back](#contents)
 
@@ -96,22 +96,22 @@ There are three key areas in the SoftwareStore interface:
 #### Viewing Your SoftwareStore Profile
 
 You can view more detailed information about your **Software Profile** by clicking on items in the application list and navigating to the different tabs.
-
+<p></p>
 ##### Available Applications
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn04_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn04_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
 At the **Available** tab:
-1. Click on an application in the application list.
+* Click on an application in the application list.
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn05_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn05_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
 The **SoftwareStore** highligts the selected application and displays additional  detail in the **Application Overview** area.
-2. Click on the **Status** tab.
+* Click on the **Status** tab.
 
-
+<p></p>
 ##### Status of Downloads
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn06_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
@@ -121,8 +121,8 @@ The **Status** tab shows all applications that are being downloaded. To the righ
 
 **NOTE: You can click on an application in the application list to view additional detail in the Application Overview section.**
 
-1. Click on the **Installed** tab.
-
+* Click on the **Installed** tab.
+<p></p>
 ##### Installed Applications
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
@@ -132,7 +132,9 @@ The **Installed** tab lists all applications that have been downloaded to your c
 
 **NOTE: You can click on an application in the application list to view additional detail in the Application Overview section.**
 
-1. Click on the "X Out" icon in the upper right of the screen to exit the **SoftwareStore**.
+* Click on the "X Out" icon in the upper right of the screen to exit the **SoftwareStore**.
+
+<p></p>
 
 [Back](#contents)
 
