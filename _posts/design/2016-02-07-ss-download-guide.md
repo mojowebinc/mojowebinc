@@ -150,20 +150,44 @@ The **Installed** tab lists all applications that have been downloaded to your c
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn08_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn08_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn09_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
-<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn09_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+At the **Available** tab:
+* Click the check box to the left of the application you want to download.
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn10_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn10_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
+The SoftwareStore will highlight your selection and display the **Install** button.
+* Click the **Install** button.
+
+**NOTE: Selecting an application from the application list will display additional information about the application in the Application Overview section, such as estimated download time.**
+
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn11_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn11_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+
+Your selection is removed from the application list on the **Available** tab and moved to the **Status** tab, as it is now installing.
+
+* Click the **Status** tab.
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn12_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn12_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
+The **Status** tab displays your download "status", including a percent download indicator to the right of the application.
+
+**NOTE: you can select a line item in the application list to display additional information in the Application Overview section, such as estimated download time.**
+
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn12b_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn12b_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+
+When your download is complete, your selection will be removed from the application list and moved to the **Installed** tab.
+
+* Click the **Installed** tab.
+
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn13_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn13_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+
+The **Installed** tab displays your recent download, along with all downloads to your computer.
+
+* Click on the "**X Out**" icon in the upper right of the screen to exit the **SoftwareStore**.
 
 [Back](#contents)
 
