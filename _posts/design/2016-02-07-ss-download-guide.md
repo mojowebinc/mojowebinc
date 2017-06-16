@@ -84,10 +84,10 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 There are three key areas in the SoftwareStore interface:
 * **Tabs Area**: click on one of the three tabs to view specific information about the applications in your profile.
   * **Available**: provides information on applications available for download.
-  * **Status**: provides information on in progress downloads.
+  * **Status**: provides information on in-progress downloads.
   * **Installed**: provides information on applications that have already been downloaded to your computer.
-* **Application list Area**: lists applications along with more detailed information, such as date available for download.
-* **Status**: provides detailed information about a specific application from the Application List, such as the estimated download time.
+* **Application List Area**: lists applications along with more detailed information, such as date available for download.
+* **Application Overview Area**: provides detailed information about a specific application from the Application List, such as the estimated download time.
 
 [Back](#contents)
 
@@ -95,23 +95,44 @@ There are three key areas in the SoftwareStore interface:
 
 ### Viewing Your SoftwareStore Profile
 
+You can view more detailed information about your **Software Profile** by clicking on items in the application list and navigating to the different tabs.
+
 #### Available Applications
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn04_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn04_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
+At the **Available** tab:
+1. Click on an application in the application list.
+
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn05_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn05_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+
+The **SoftwareStore** highligts the selected application and displays additional  detail in the **Application Overview** area.
+2. Click on the **Status** tab.
+
 
 #### Status of Downloads
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn06_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn06_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
+The **Status** tab shows all applications that are being downloaded. To the right of the application is a status indicator that shows the percentage progress of your application download.
+
+**NOTE: You can click on an application in the application list to view additional detail in the Application Overview section.**
+
+1. Click on the **Installed** tab.
+
 #### Installed Applications
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+
+The **Installed** tab lists all applications that have been downloaded to your computer.
+
+**NOTE: You can click on an application in the application list to view additional detail in the Application Overview section.**
+
+1. Click on the "X Out" icon in the upper right of the screen to exit the **SoftwareStore**.
 
 [Back](#contents)
 
