@@ -60,23 +60,18 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 
 ### Accessing the SoftwareStore
 
-<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_sm.png" style="margin: 50px 0px 50px 0px" alt=""></div>
-<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_lg.png" style="margin: 50px 0px 50px 0px" alt=""></div>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
 <hr>
 
 ### The SoftwareStore Interface
 
-<p>
-  <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn03_sm.png" alt=""></div>
-  <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn03_lg.png" alt=""></div>
-</p>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn03_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn03_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
 <hr>
 
