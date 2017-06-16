@@ -60,8 +60,8 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 
 ### Accessing the SoftwareStore
 
-<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_sm.png" alt=""></div>
-<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_lg.png" alt=""></div>
+<div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_sm.png" style="margin: 50px 50px" alt=""></div>
+<div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_lg.png" style="margin: 50px 50px" alt=""></div>
 
 
 <p>
