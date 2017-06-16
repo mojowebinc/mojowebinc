@@ -96,7 +96,9 @@ There are three key areas in the SoftwareStore interface:
 #### Viewing Your SoftwareStore Profile
 
 You can view more detailed information about your **Software Profile** by clicking on items in the application list and navigating to the different tabs.
-<p></p>
+
+<br>
+
 ##### Available Applications
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn04_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
@@ -111,7 +113,8 @@ At the **Available** tab:
 The **SoftwareStore** highligts the selected application and displays additional  detail in the **Application Overview** area.
 * Click on the **Status** tab.
 
-<p></p>
+<br>
+
 ##### Status of Downloads
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn06_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
@@ -122,7 +125,9 @@ The **Status** tab shows all applications that are being downloaded. To the righ
 **NOTE: You can click on an application in the application list to view additional detail in the Application Overview section.**
 
 * Click on the **Installed** tab.
-<p></p>
+
+<br>
+
 ##### Installed Applications
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
@@ -134,7 +139,7 @@ The **Installed** tab lists all applications that have been downloaded to your c
 
 * Click on the "X Out" icon in the upper right of the screen to exit the **SoftwareStore**.
 
-<p></p>
+<br>
 
 [Back](#contents)
 
