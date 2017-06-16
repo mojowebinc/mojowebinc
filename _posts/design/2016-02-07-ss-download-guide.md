@@ -36,11 +36,11 @@ A Quickstart Guide provides a brief introduction to a product. Unlike a manual o
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_header_sm.jpg" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_header_lg.jpg" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-The Companyone SoftwareStore offers employees improved accessibility to business applications. In addition to reducing download times for applications, the SoftwareStore provides increased security by reducing the threat of downloading malicious software outside the Companyone intranet.
+The **Companyone SoftwareStore** offers employees improved accessibility to business applications. In addition to reducing download times for applications, the **SoftwareStore** provides increased security by reducing the threat of downloading malicious software outside the **Companyone** intranet.
 
-Each employee at Companyone has a SoftwareStore profile that lists all assigned applications and whether they have been downloaded. There is no need to login to the SoftwareStore as it automatically detects your computer’s unique address.
+Each employee at **Companyone** has a **SoftwareStore** profile that lists all assigned applications and whether they have been downloaded. There is no need to login to the **SoftwareStore** as it automatically detects your computer’s unique address.
 
-If you have any questions or issues about accessing the SoftwareStore and downloading an application, please contact Security Administration (555.555.5555).
+If you have any questions or issues about accessing the **SoftwareStore** and downloading an application, please contact Security Administration (555.555.5555).
 
 <br>
 
