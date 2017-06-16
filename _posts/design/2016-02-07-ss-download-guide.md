@@ -198,6 +198,13 @@ The **Installed** tab displays your recent download, along with all downloads to
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn14_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn14_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
+At the **NewSystem** desktop:
+* Right-click on the **NewSystem** icon in the lower left of the screen.
+* Select the **My Applications** menu option.
+* View your list of installed applications
+
+**NOTE: Selecting a menu option from the My Applications list will launch the application.**
+
 [Back](#contents)
 
 <hr>
