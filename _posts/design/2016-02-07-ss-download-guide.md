@@ -83,11 +83,11 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 
 There are three key areas in the SoftwareStore interface:
 * **Tabs Area**: click on one of the three tabs to view specific information about the applications in your profile.
-  * **Available**:
-  * **Status**:
-  * **Installed**:
-* **Application list Area**
-* **Status**:
+  * **Available**: provides information on applications available for download.
+  * **Status**: provides information on in progress downloads.
+  * **Installed**: provides information on applications that have already been downloaded to your computer.
+* **Application list Area**: lists applications along with more detailed information, such as date available for download.
+* **Status**: provides detailed information about a specific application from the Application List, such as the estimated download time.
 
 [Back](#contents)
 
