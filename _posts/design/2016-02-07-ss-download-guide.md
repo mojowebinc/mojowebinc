@@ -38,7 +38,7 @@ A Quickstart Guide provides a brief introduction to a product. Unlike a manual o
 
 The **Companyone SoftwareStore** offers employees improved accessibility to business applications. In addition to reducing download times for applications, the **SoftwareStore** provides increased security by reducing the threat of downloading malicious software outside the **Companyone** intranet.
 
-Each employee at **Companyone** has a **SoftwareStore** profile that lists all assigned applications and whether they have been downloaded. There is no need to login to the **SoftwareStore** as it automatically detects your computer’s unique address.
+Each employee at **Companyone** has a **SoftwareStore** profile that lists all assigned applications and indicates if an application has been downloaded. There is no need to login to the **SoftwareStore** as it automatically detects your computer’s unique address.
 
 If you have any questions or issues about accessing the **SoftwareStore** and downloading an application, please contact Security Administration (555.555.5555).
 
@@ -72,6 +72,8 @@ At the **NewSystem** desktop:
 
 **NewSystem** takes you to the **SoftwareStore** home page.
 
+<br>
+
 [Back](#contents)
 
 <hr>
@@ -85,9 +87,11 @@ There are three key areas in the SoftwareStore interface:
 * **Tabs Area**: click on one of the three tabs to view specific information about the applications in your profile.
   * **Available**: provides information on applications available for download.
   * **Status**: provides information on in-progress downloads.
-  * **Installed**: provides information on applications that have already been downloaded to your computer.
+  * **Installed**: provides information on applications already downloaded to your computer.
 * **Application List Area**: lists applications along with more detailed information, such as date available for download.
 * **Application Overview Area**: provides detailed information about a specific application from the Application List, such as the estimated download time.
+
+<br>
 
 [Back](#contents)
 
@@ -133,7 +137,7 @@ The **Status** tab shows all applications that are being downloaded. To the righ
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-The **Installed** tab lists all applications that have been downloaded to your computer.
+The **Installed** tab lists all applications downloaded to your computer.
 
 **NOTE: You can click on an application in the application list to view additional detail in the Application Overview section.**
 
@@ -156,7 +160,8 @@ At the **Available** tab:
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn10_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn10_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
-The SoftwareStore will highlight your selection and display the **Install** button.
+The **SoftwareStore** will highlight your selection and display the **Install** button in the lower left area of the **Application List Area**.
+
 * Click the **Install** button.
 
 **NOTE: Selecting an application from the application list will display additional information about the application in the Application Overview section, such as estimated download time.**
@@ -189,6 +194,8 @@ The **Installed** tab displays your recent download, along with all downloads to
 
 * Click on the "**X Out**" icon in the upper right of the screen to exit the **SoftwareStore**.
 
+<br>
+
 [Back](#contents)
 
 <hr>
@@ -204,6 +211,8 @@ At the **NewSystem** desktop:
 * View your list of installed applications
 
 **NOTE: Selecting a menu option from the My Applications list will launch the application.**
+
+<br>
 
 [Back](#contents)
 
