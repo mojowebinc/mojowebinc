@@ -46,7 +46,7 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 
 <hr>
 
-## Contents
+### Contents
 
 * [Accessing the SoftwareStore](#accessing-the-softwarestore)
 * [The SoftwareStore Interface](#the-softwarestore-interface)
@@ -58,7 +58,7 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 
 <hr>
 
-### Accessing the SoftwareStore
+#### Accessing the SoftwareStore
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
@@ -76,7 +76,7 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 
 <hr>
 
-### The SoftwareStore Interface
+#### The SoftwareStore Interface
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn03_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn03_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
@@ -93,11 +93,11 @@ There are three key areas in the SoftwareStore interface:
 
 <hr>
 
-### Viewing Your SoftwareStore Profile
+#### Viewing Your SoftwareStore Profile
 
 You can view more detailed information about your **Software Profile** by clicking on items in the application list and navigating to the different tabs.
 
-#### Available Applications
+##### Available Applications
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn04_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn04_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
@@ -112,7 +112,7 @@ The **SoftwareStore** highligts the selected application and displays additional
 2. Click on the **Status** tab.
 
 
-#### Status of Downloads
+##### Status of Downloads
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn06_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn06_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
@@ -123,7 +123,7 @@ The **Status** tab shows all applications that are being downloaded. To the righ
 
 1. Click on the **Installed** tab.
 
-#### Installed Applications
+##### Installed Applications
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn07_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
@@ -138,7 +138,7 @@ The **Installed** tab lists all applications that have been downloaded to your c
 
 <hr>
 
-### Downloading Applications
+#### Downloading Applications
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn08_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn08_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
@@ -162,7 +162,7 @@ The **Installed** tab lists all applications that have been downloaded to your c
 
 <hr>
 
-### Verifying Downloads
+#### Verifying Downloads
 
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn14_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn14_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
