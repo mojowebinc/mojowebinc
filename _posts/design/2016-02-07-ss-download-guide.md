@@ -63,8 +63,14 @@ If you have any questions or issues about accessing the SoftwareStore and downlo
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn01_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 
+1. At the NewSystem desktop:
+* Right-click on the **NewSystem** icon in the lower left of the screen.
+* Select the **SoftwareStore** menu option.
+
 <div class="show-for-small-only"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_sm.png" style="margin: 25px 0px 25px 0px" alt=""></div>
 <div class="show-for-medium-up"><img src="{{ site.urlimg }}99insd_ssdg_scrn02_lg.png" style="margin: 25px 0px 25px 0px" alt=""></div>
+
+2. NewSystem takes you to the **SoftwareStore** home page. 
 
 [Back](#contents)
 
